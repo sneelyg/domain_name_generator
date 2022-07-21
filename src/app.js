@@ -11,7 +11,7 @@ window.onload = function() {
   let pronoun = ["the", "our", "some"];
   let adj = ["awesome", "big", "shiny"];
   let noun = ["dude", "oaktree", "caterpillar"];
-  let com = [".com", ".org", ".com.au", ".cl"];
+  let com = [".com", ".org", ".com.au", ".cl", ".net"];
 
   let domain = "";
   let dominios = [];
